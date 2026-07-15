@@ -145,9 +145,9 @@ $ cat about.json
 ## 🐍 Contribution Snake
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/joshylak/joshylak/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/joshylak/joshylak/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/joshylak/joshylak/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-snake.vercel.app/api/snake?username=joshylak&bg_color=0d0d1a&dot_color=00ffcc&head_color=7b2fff" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-snake.vercel.app/api/snake?username=joshylak" />
+  <img alt="github-snake" src="https://github-readme-snake.vercel.app/api/snake?username=joshylak&bg_color=0d0d1a&dot_color=00ffcc&head_color=7b2fff" />
 </picture>
 
 ---
